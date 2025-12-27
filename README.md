@@ -1,7 +1,6 @@
-
+<img align="right" height="250" src="sonic.gif"/>
 
 ## ✦│Currently
-<img align="left" height="150" src="sonic.gif"/>
 Scholarship student at 42 Rio completing Common Core and developing \
 side projects as part of scholarship requirements. \
 Most of my repos are private since they're 42 projects.\
