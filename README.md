@@ -1,4 +1,4 @@
-<img align="right" height="250" src="sonic.gif"/>
+<img align="right" height="250" src="sonic.gif"/> 
 
 ## ✦│Currently
 Scholarship student at 42 Rio completing Common Core and developing \
